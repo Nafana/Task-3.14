@@ -1,0 +1,21 @@
+< [назад](./readme.md)
+
+## **Основные комманды git**
+---
+* [git add](add.md)
+* [git commit](commit.md)
+* [git init](init.md)
+* [git status](status.md)
+* [git diff](diff.md)
+* [git log](log.md)
+* [git branch](branch.md)
+* [git switch или git checkout](switch.md)
+* [git grep](grep.md)
+* [git blame](blame.md)
+* [git stash](stash.md)
+* [git help](help.md)
+* [git merge](merge.md)
+* [git remote](remote.md)
+* [git fetch](fetch.md)
+* [git push](push.md)
+* [git pull](pull.md)
